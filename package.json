@@ -1,0 +1,19 @@
+{
+    "name": "c9.ide.run.debug.jdbdebugger",
+    "description": "Java debugger with jdb plugin",
+    "version": "0.0.1",
+    "author": "hoathenguyen85",
+    "contributors": ["Hoa Nguyen"],
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/hoathenguyen85"
+    },
+    "plugins": {
+    },
+    "categories": [
+        "core"
+    ],
+    "licenses": [
+        "MIT"
+    ]
+}
